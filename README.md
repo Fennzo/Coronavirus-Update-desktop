@@ -8,3 +8,4 @@ READ THIS TO RUN
 
 2) Under run configuration for project -> arguments -> vm arguments, add the following commands 
    --module-path  C:\YourFilePath\javafx-sdk-14.0.1\lib --add-       modules=javafx.controls,javafx.fxml
+   This configuration is for Eclipse, the exact steps to find vm arguments for other IDEs might differ
