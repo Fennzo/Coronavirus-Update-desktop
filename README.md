@@ -1,5 +1,5 @@
 # Coronavirus-Update
-A simple program that automatically updates Coronavirus data with total infected, total deaths and population of the world and of each country. 
+A desktop program that automatically updates Coronavirus data with total infected, total deaths and population of the world and of each country. 
 
 Implemented GUI with scene builder 
 
